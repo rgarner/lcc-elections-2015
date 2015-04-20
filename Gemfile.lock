@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tabula-extractor (0.7.6-java)
+      trollop (~> 2.0)
+    trollop (2.1.2)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  tabula-extractor
